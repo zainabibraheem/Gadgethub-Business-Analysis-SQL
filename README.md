@@ -165,12 +165,15 @@ order by revenue desc;
 
 1. The dataset contain data of products details from jan to april which are Qtr 1 and Qtr 2 in 2024.
 2. There are no product that sold more than 65 quantity in the 1st, 2nd and 3rd quarter of 2024.
-3. Only 12 Products met the target and generated more than $1500 in revenue.
+3. Only 11 Products met the target and generated more than $1500 in revenue.
 
    
 
 ## Recommendations
-1. 
+1. In 2024, we have only **Qtr 1** and **Qtr 2** available, Company should provide data covering **Qtr 3** for better analysis.
+2. For the revenue target of $1500, Only 11 Products met the sales revenue target condition with Acer Nitro 5 generating the highest revenue of $10,999. These products should be the continued, the remaining 17 products that did not meet the revenue target should be discontinued to save cost.
+3. For the quantity sold target of 65 units, none of the products met the target condition. The most sold product is the Lenovo Ideapad Flex 5i, with 10 unit sold and it is below the target.
+4. Company should continue producing the 11 Products that met the $1500 revenue target in year 2024 and discontinue the rest of the products.
 
 
 
