@@ -153,6 +153,12 @@ having sum (unit_price * quantity) > 1500
 order by revenue desc;
 ```
 
+
+![Screenshot 2025-03-26 223503](https://github.com/user-attachments/assets/b3c59780-d284-484e-9300-79b1ef692214)
+
+![Screenshot 2025-03-27 014917](https://github.com/user-attachments/assets/bd813528-23b3-4e53-b714-225a7c71146a)
+
+
 ## Key Insights & Recommendations
 
 ## Insights:
@@ -164,7 +170,7 @@ order by revenue desc;
    
 
 ## Recommendations
-1.
+1. 
 
 
 
